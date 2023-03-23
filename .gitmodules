@@ -8,3 +8,8 @@
 	url = https://github.com/xdomingoal/erah-devel
 	shallow = true
 	registered = true
+[submodule "osd"]
+	path = osd
+	url = https://github.com/cran/osd
+	shallow = true
+	registered = true
